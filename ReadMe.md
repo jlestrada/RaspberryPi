@@ -1,5 +1,5 @@
 # Raspberry Pi Code
-## Jose Estrada
+### Jose Estrada
 ### May 25, 2015
 
 This repository is intended to provide any code that I develope for my Raspberry Pi
